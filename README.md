@@ -4,10 +4,6 @@
 
 > Tis project is a console app that will help users to keep a record of different types of things they own: books, music albums, movies, and games.
 
-## Description video
-
-https://user-images.githubusercontent.com/91022355/190726589-8b55ccdb-9266-4c09-8a81-720a65e58252.mp4
-
 ## Built With
 
 - Major languages : `Ruby`
